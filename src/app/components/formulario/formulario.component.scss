@@ -1,0 +1,21 @@
+form {
+    > * {
+        width: 100%;
+        display: block;
+    }
+}
+
+.fw {
+    width: 100%;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.actionButton {
+    display: flex;
+    align-items: flex-end;
+}
